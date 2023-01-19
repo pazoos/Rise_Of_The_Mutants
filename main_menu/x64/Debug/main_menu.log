@@ -1,0 +1,4 @@
+﻿  game02.c
+C:\Users\ionpa\Desktop\pbl\game_menu_eki\game02\game02.c(58,5): warning C4013: 'textuaIdatzi' sin definir; se supone que extern devuelve como resultado int
+C:\Users\ionpa\Desktop\pbl\game_menu_eki\game02\game02.c(114,55): warning C4101: 'mina': variable local sin referencia
+  main_menu.vcxproj -> C:\Users\ionpa\Desktop\pbl\game_menu_eki\x64\Debug\main_menu.exe
